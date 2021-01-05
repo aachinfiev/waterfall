@@ -149,7 +149,7 @@
 
 		var rowHeight = 10;
 		var rowPadding = 2;
-		var barOffset = 200;
+		var barOffset = 400;
 
 		//calculate size of chart
 		// - max time
